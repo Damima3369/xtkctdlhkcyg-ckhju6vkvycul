@@ -3,7 +3,7 @@
 
 Click the button below to deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://ggithub.com/Damima3369/xtkctdlhkcyg-ckhju6vkvycul/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Damima3369/xtkctdlhkcyg-ckhju6vkvycul/tree/main)
 
 ## 0. Attention
 
